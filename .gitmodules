@@ -1,0 +1,3 @@
+[submodule "etc/stumpwm-setup"]
+	path = etc/stumpwm-setup
+	url = git@github.com:shackra/stumpwm-setup.git
